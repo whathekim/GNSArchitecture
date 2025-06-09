@@ -60,20 +60,4 @@ KOREAIT 아카데미 보안 과정 중 진행한 개인 실습으로, 기업 환
 - Kali를 활용한 공격 시나리오 수행 및 취약점 보고서 작성  
 - Zabbix/PMM을 활용한 실시간 리소스 모니터링 구현  
 
----
 
-## 👤 개인 담당 역할
-
-- 전체 보안 인프라 설계 및 GNS3 시뮬레이션 구축  
-- ASA 방화벽 및 pfSense VPN 구성  
-- Snort, Suricata, iptables 조합 IDS/IPS 설정  
-- Wazuh + OSSEC 연동 및 SIEM 대시보드 구성  
-- Kali Linux 기반 모의해킹 수행 및 결과 보고서 작성  
-
----
-
-## 🔭 향후 발전 방향
-
-- ELK Stack 기반 통합 로그 분석 환경 구축  
-- AWS, Azure 연동을 통한 클라우드 보안 실험  
-- SOAR 기반 자동화 보안 대응 시나리오 연계  
